@@ -26,7 +26,6 @@
  ## <font color="red"> This is not recommended and is unsafe!</font>
 
     7. Look up your router model and how to open ports with it (this site can help you https://portforward.com/router.htm).
-
  ***
 
 
