@@ -29,5 +29,5 @@
  ***
 
 
-<font color="green">If you are lazy u can download a bat file that installs the Ports in your Windows Firewall by it selfs (FiveM Port 30120 and TxAdmin port 40120)</font>
+<font color="green">If you are lazy u can download a bat file that installs the Ports in your Windows Firewall by it self (FiveM Port 30120 and TxAdmin port 40120)</font>
 [Ports .bat by Moth](https://github.com/Moth1335/usefull.git)
